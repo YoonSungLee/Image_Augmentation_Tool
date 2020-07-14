@@ -5,7 +5,7 @@ If you download this repo, please follow the procedure below.
 <br><br><br>
 ### 1. Imgaug Install
 make a virtual environment, and execute the code below.<br>
-`pip install six numpy scipy Pillow matplotlib scikit-image opencv-python imageio Shapely imgaug`
+`pip install six numpy scipy Pillow matplotlib scikit-image opencv-python imageio Shapely imgaug pascal_voc_writer`
 <br><br><br>
 ### 2. Input Your Custom Dataset In 'before_dataset'
 I created a 'before_dataset' folder for you to understand. Input your custom datset in this folder. Remember to put the png files and xml files under the same name, as shown in the example.
